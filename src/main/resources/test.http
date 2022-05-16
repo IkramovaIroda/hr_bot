@@ -1,0 +1,18 @@
+POST http://localhost:80/company
+Content-Type: application/json
+
+{
+  "name": "Ketmonzor OOO",
+  "username": "Boyvochayev Boy",
+  "email": "dwedew@gmail.com"
+}
+
+###
+POST http://localhost/user
+Content-Type: application/json
+
+{
+  "username": "Kimdirov Kimdir"
+}
+
+###
